@@ -1,0 +1,2 @@
+This is a test file for exception handling.
+Python will try to read this file.
