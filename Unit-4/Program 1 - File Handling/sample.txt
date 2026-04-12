@@ -1,0 +1,10 @@
+Name: Tanvi
+Course: Python Programming
+Topic: File Handling
+
+This file is used to demonstrate:
+1. Writing data into a file
+2. Reading file contents
+3. Appending new data
+
+End of file.
